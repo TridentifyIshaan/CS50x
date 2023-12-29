@@ -1,5 +1,5 @@
 # Bank Management Project (BMP)
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://youtu.be/JOdbHUG2ZII
 #### Description:
 A project used to carry out bank functions like transactions, savings, account holding, loan sharing, etc.. in an organized way.
 I have created a menu of different functions that perform various tasks that a good bank should do. Here, they are as follows:
